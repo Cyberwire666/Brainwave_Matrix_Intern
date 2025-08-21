@@ -1,6 +1,4 @@
-Here’s a professional **README.md** for your phishing link scanner project:
 
----
 
 # 🛡️ Phishing Link Scanner
 
@@ -23,8 +21,8 @@ The scanner uses both **manual checks** (like detecting URL shorteners or suspic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/phishing-scanner.git
-   cd phishing-scanner
+   git clone https://github.com/Cyberwire666/Brainwave_Matrix_Intern.git
+   
    ```
 
 2. Install dependencies:
@@ -100,5 +98,4 @@ It should not be considered a fully comprehensive phishing detection system.
 Always use caution before clicking unknown links.
 
 ---
-
-Do you want me to also create a **fancy banner ASCII logo** at the top of the README (like `████ Phishing Scanner ████`) to make it look cooler on GitHub?
+## YEHIA TAREK
