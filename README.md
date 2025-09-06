@@ -98,4 +98,35 @@ It should not be considered a fully comprehensive phishing detection system.
 Always use caution before clicking unknown links.
 
 ---
+
+# 🔐 Password Strength Checker  
+
+A **Great, Impressive, and User-Friendly** tool built in Python to assess the strength of passwords entered by users.  
+It analyzes length, complexity, and uniqueness to provide **clear feedback** on password strength.  
+
+---
+
+## ✨ Features  
+
+- ✅ Checks **password length**  
+- ✅ Analyzes **character variety** (uppercase, lowercase, digits, symbols)  
+- ✅ Detects **common/weak passwords**  
+- ✅ Provides **step-by-step feedback** with emojis for friendliness  
+- ✅ Interactive **CLI tool** (keeps running until user exits)  
+
+---
+
+## 🚀 Demo  
+
+```bash
+$ python password_checker.py
+🔐 Welcome to the Password Strength Checker 🔐
+
+Enter a password (or type 'exit' to quit): hello123
+Password Strength: 🟠 Medium
+✅ Good length.
+❌ Add uppercase letters.
+❌ Add special characters (e.g. @, #, $).
+
+
 ## YEHIA TAREK
